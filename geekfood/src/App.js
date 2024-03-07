@@ -1,10 +1,10 @@
 //import logo from './logo.svg';
 import './App.css';
-import LandingScreen from './Screen/LandingScreen';
+import HomeScreen from './Screen/HomeScreen';
 function App() {
   return (
     <>
-      <LandingScreen />
+      <HomeScreen />
     </>
   );
 }
